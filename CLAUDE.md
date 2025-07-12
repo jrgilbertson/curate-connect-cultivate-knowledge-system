@@ -8,25 +8,7 @@ This is an Obsidian-based personal knowledge management system template called "
 
 ## Project Structure
 
-The repository follows a specific folder hierarchy for knowledge organization:
-- `Atomic Notes/` - Individual concept notes following Zettelkasten principles
-- `Structure Notes/` - Index/Map of Content (MOC) notes that connect related concepts
-- `Reference Notes/` - Notes from books, articles, and other external sources
-- `Vocabulary Notes/` - Definitions and explanations of terms
-- `People/` - Notes about individuals you interact with or study
-- `Places and Things/` - Notes about locations, objects, and tools
-- `Projects/` - Project documentation and planning
-- `Meetings/` - Meeting notes and records
-- `Jobs/` - Job opportunities and career-related information
-- `Reviews/` - Periodic reviews and reflections
-  - `Daily Notes/` - Daily journals and reflections
-  - `Weekly Review/` - Weekly summaries and planning
-  - `Quarterly Reviews/` - Quarterly assessments and goal setting
-  - `Decisions/` - Decision logs and analysis
-  - `Interviews/` - Interview notes and feedback
-- `Inbox/` - Temporary storage for unprocessed notes
-- `Attachments/` - Media files and attachments
-- `Templates/` - Reusable templates for different note types
+The repository follows a specific folder hierarchy for knowledge organization. See `README.md` for the complete folder structure and descriptions.
 
 ## Key Configuration
 
@@ -37,15 +19,12 @@ The repository follows a specific folder hierarchy for knowledge organization:
 - `workspace.json` defines the workspace layout
 
 ### Active Plugins
-- Natural Language Dates - Parse natural language dates
-- Periodic Notes - Daily/weekly note creation
-- Calendar - Visual calendar interface
-- Dataview - Query and display data from notes
-- Linter - Markdown formatting and consistency
-- Tag Wrangler - Tag management
-- Outliner - Enhanced outline functionality
+See `README.md` for the list of configured plugins and their descriptions.
 
 ## Development Guidelines
+
+### Single Source of Truth
+Maintain a single source of truth for all documentation. Avoid duplicating information across multiple files. Instead, reference the authoritative source. For example, the folder structure and plugin list are maintained in `README.md` and should be referenced from other documentation rather than duplicated.
 
 ### Working with Templates
 Templates are markdown files in the `Templates/` folder that define the structure for new notes. When modifying templates:
