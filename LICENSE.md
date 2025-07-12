@@ -1,23 +1,52 @@
-# MIT License
+---
+aliases: []
+date_created: 2025-07-12 19:07
+date_modified: 2025-07-12 19:07
+tags: []
+title: Creative Commons Attribution 4.0 International License (CC BY 4.0)
+---
 
-MIT License
+# Creative Commons Attribution 4.0 International License (CC BY 4.0)
 
-Copyright (c) 2025 Jason Gilbertson
+## Attribution
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Copyright (c) 2025 Jason Gilbertson and Terri Yeh.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+This work is licensed under the Creative Commons Attribution 4.0 International License.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+## License Summary
+
+You are free to:
+
+- **Share**—copy and redistribute the material in any medium or format
+- **Adapt**—remix, transform, and build upon the material for any purpose, even commercially
+
+Under the following terms:
+
+- **Attribution**—You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+
+## Full License Text
+
+To view a copy of this license, visit:
+
+https://creativecommons.org/licenses/by/4.0/
+
+Or send a letter to:
+
+Creative Commons
+PO Box 1866
+Mountain View, CA 94042, USA
+
+## Attribution Guidelines
+
+When attributing this work, please include:
+
+1. The title: "Curate, Cultivate, Connect Knowledge System"
+2. The author: Jason Gilbertson and Terri Yeh
+3. The source: https://github.com/jrgilbertson/curate-connect-cultivate-knowledge-system
+4. The license: CC BY 4.0
+5. Any changes made to the original work
+
+Example attribution:
+
+"Curate, Cultivate, Connect Knowledge System" by Jason Gilbertson and Terri Yeh, licensed under CC BY 4.0. Original source: https://github.com/jrgilbertson/curate-connect-cultivate-knowledge-system. [Describe any changes if applicable.]
