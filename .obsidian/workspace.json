@@ -1,0 +1,254 @@
+{
+  "main": {
+    "id": "57714e0653bddb3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f660fd035ef63e28",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ad7d3dd4764ce9f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "98f94fa564025e89",
+    "type": "split",
+    "children": [
+      {
+        "id": "aaf80147d3395fdf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "99a9449ca8f08291",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "6102e74439c69705",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "summoner",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "byCreatedTime"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "4d60a0dce1edcf49",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      },
+      {
+        "id": "e4d39f216c185150",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0e6772d822bb1d7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": true,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
+            }
+          },
+          {
+            "id": "45719903f1694e75",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Reviews/Daily Notes/2025-01-28.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 2025-01-28"
+            }
+          },
+          {
+            "id": "bd39e341678be74d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Atomic Notes/202507081717 Stylometry is the statistical analysis of writing style to identify authorship or linguistic patterns.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 202507081717 Stylometry is the statistical analysis of writing style to identify authorship or linguistic patterns"
+            }
+          },
+          {
+            "id": "e0a4a8e833d6da01",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "52677aff38481bf7",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 272.5
+  },
+  "right": {
+    "id": "def74882cf497a3d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d151dd9fb75e2206",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4a8a4e1aa654648e",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 392.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "workspaces:Manage workspace layouts": false,
+      "zk-prefixer:Create new unique note": true,
+      "random-note:Open random note": false,
+      "switcher:Open quick switcher": true,
+      "templates:Insert template": true,
+      "command-palette:Open command palette": true,
+      "audio-recorder:Start/stop recording": false,
+      "canvas:Create new canvas": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "1ad7d3dd4764ce9f",
+  "lastOpenFiles": [
+    "Templates/Atomic Note Template.md",
+    "Templates/Atomic Note Template (Anki).md",
+    "Vocabulary Notes/202201251646 Nocebo.md",
+    "Vocabulary Notes",
+    "Templates/Writing Template.md",
+    "Templates/Project Template.md",
+    "Templates/Decision Template.md",
+    "Structure Notes/202112301003 The Science of Well-Being.md",
+    "Structure Notes",
+    "Reviews/Daily Notes/2022-06-07.md",
+    "Reviews/Daily Notes",
+    "Reviews",
+    "People/John Doe.md",
+    "People/Jane Doe.md",
+    "People",
+    "Meetings/202206071051 Jane 1x1.md",
+    "Meetings",
+    "Literature Notes/Books/How to Take Smart Notes.md",
+    "Literature Notes/Books",
+    "Literature Notes",
+    "DESIGN.md",
+    "CONTRIBUTING.md",
+    "CHANGELOG.md",
+    "Attachments/pronunciation_en_nocebo.mp3",
+    "Attachments",
+    "Atomic Notes/202201101401 Structure, or index, notes in a Zettelkasten create an entry point into a line of thought or topic.md",
+    "Atomic Notes/202112301012 The G.I. Joe Fallacy is the mistaken idea that knowing is half the battle.md",
+    "Templates/Quarterly Review Template.md",
+    "LICENSE.md",
+    "CLAUDE.md",
+    "Templates/Weekly Review Template.md",
+    "Reviews/Daily Notes/2025-07-12.md",
+    "Templates/Vocabulary Template.md",
+    "Templates/Reference Template.md",
+    "Templates/Person Template.md",
+    "Attachments/Pasted image 20250623141528.png",
+    "Attachments/20250503145221 creation.png",
+    "Attachments/20250503144834 which way is up.png",
+    "Attachments/20250503142806 from bad to worse.png",
+    "Attachments/20250503142453 boy meets girl.png",
+    "Attachments/boy meets girl.png",
+    "Attachments/Screenshot 2025-05-03 at 2.23.02 PM.png",
+    "Attachments/20250503142127 man in hole.png",
+    "Attachments/20250326105311 Telemetry strategy feedback.png",
+    "Attachments/20250215103454 3D saddle point.png",
+    "Inbox/Untitled.canvas",
+    "Untitled.canvas"
+  ]
+}

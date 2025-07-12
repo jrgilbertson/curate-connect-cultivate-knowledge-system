@@ -1,0 +1,33 @@
+{
+  "showGettingStartedBanner": false,
+  "hasMigratedDailyNoteSettings": true,
+  "hasMigratedWeeklyNoteSettings": false,
+  "daily": {
+    "folder": "Reviews/Daily Notes",
+    "template": "Templates/Daily Note Template.md",
+    "enabled": true
+  },
+  "weekly": {
+    "format": "",
+    "template": "Templates/Weekly Review Template.md",
+    "folder": "Reviews/Weekly Review",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "",
+    "template": "Templates/Monthly Review Template.md",
+    "folder": "Reviews/Monthly Review",
+    "enabled": true
+  },
+  "quarterly": {
+    "format": "",
+    "template": "Templates/Quarterly Review Template.md",
+    "folder": "Reviews/Quarterly Review",
+    "enabled": true
+  },
+  "yearly": {
+    "format": "",
+    "template": "",
+    "folder": ""
+  }
+}

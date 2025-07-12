@@ -1,0 +1,19 @@
+{
+  "showFrontmatter": true,
+  "foldHeading": true,
+  "alwaysUpdateLinks": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "/",
+  "promptDelete": false,
+  "defaultViewMode": "source",
+  "communityThemeSortOrder": "download",
+  "foldIndent": true,
+  "showLineNumber": false,
+  "legacyEditor": false,
+  "livePreview": true,
+  "spellcheck": true,
+  "autoPairMarkdown": false,
+  "spellcheckDictionary": [
+    "Nocebo"
+  ]
+}

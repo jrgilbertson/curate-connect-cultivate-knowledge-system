@@ -1,0 +1,79 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:People",
+      "color": {
+        "a": 1,
+        "rgb": 14883356
+      }
+    },
+    {
+      "query": "path:Places",
+      "color": {
+        "a": 1,
+        "rgb": 16489113
+      }
+    },
+    {
+      "query": "path:Projects",
+      "color": {
+        "a": 1,
+        "rgb": 11722634
+      }
+    },
+    {
+      "query": "path:\"Structure Notes\"",
+      "color": {
+        "a": 1,
+        "rgb": 2062516
+      }
+    },
+    {
+      "query": "path:\"Atomic Notes\"",
+      "color": {
+        "a": 1,
+        "rgb": 10931939
+      }
+    },
+    {
+      "query": "path:Someday",
+      "color": {
+        "a": 1,
+        "rgb": 16629615
+      }
+    },
+    {
+      "query": "path:Inbox",
+      "color": {
+        "a": 1,
+        "rgb": 16744192
+      }
+    },
+    {
+      "query": "path:Writing",
+      "color": {
+        "a": 1,
+        "rgb": 3383340
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 0.998464209401709,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.565571581196581,
+  "repelStrength": 11.2686965811966,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.8628475771321847,
+  "close": false
+}
