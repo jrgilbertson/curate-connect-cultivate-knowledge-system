@@ -10,12 +10,23 @@ This is an Obsidian-based personal knowledge management system template called "
 
 The repository follows a specific folder hierarchy for knowledge organization:
 - `Atomic Notes/` - Individual concept notes following Zettelkasten principles
-- `Literature Notes/` - Notes from books, articles, and other sources
 - `Structure Notes/` - Index/Map of Content (MOC) notes that connect related concepts
-- `Templates/` - Reusable templates for different note types
-- `People/`, `Projects/`, `Meetings/` - Context-specific notes
-- `Reviews/` - Daily notes, weekly reviews, and periodic reflections
+- `Reference Notes/` - Notes from books, articles, and other external sources
+- `Vocabulary Notes/` - Definitions and explanations of terms
+- `People/` - Notes about individuals you interact with or study
+- `Places and Things/` - Notes about locations, objects, and tools
+- `Projects/` - Project documentation and planning
+- `Meetings/` - Meeting notes and records
+- `Jobs/` - Job opportunities and career-related information
+- `Reviews/` - Periodic reviews and reflections
+  - `Daily Notes/` - Daily journals and reflections
+  - `Weekly Review/` - Weekly summaries and planning
+  - `Quarterly Reviews/` - Quarterly assessments and goal setting
+  - `Decisions/` - Decision logs and analysis
+  - `Interviews/` - Interview notes and feedback
+- `Inbox/` - Temporary storage for unprocessed notes
 - `Attachments/` - Media files and attachments
+- `Templates/` - Reusable templates for different note types
 
 ## Key Configuration
 
