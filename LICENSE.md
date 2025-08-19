@@ -1,18 +1,10 @@
----
-aliases: []
-date_created: 2025-07-12 19:07
-date_modified: 2025-07-12 19:07
-tags: []
-title: Creative Commons Attribution 4.0 International License (CC BY 4.0)
----
-
 # Creative Commons Attribution 4.0 International License (CC BY 4.0)
 
 ## Attribution
 
-Copyright (c) 2025 Jason Gilbertson and Terri Yeh.
+Copyright (c) 2024-2025 Jason Gilbertson and Terri Yeh.
 
-This work is licensed under the Creative Commons Attribution 4.0 International License.
+This vault template and methodology documentation are licensed under the Creative Commons Attribution 4.0 International License.
 
 ## License Summary
 
@@ -41,12 +33,16 @@ Mountain View, CA 94042, USA
 
 When attributing this work, please include:
 
-1. The title: "Curate, Cultivate, Connect Knowledge System"
-2. The author: Jason Gilbertson and Terri Yeh
+1. The title: "Curate, Connect, Cultivate Knowledge System"
+2. The authors: Jason Gilbertson and Terri Yeh
 3. The source: https://github.com/jrgilbertson/curate-connect-cultivate-knowledge-system
 4. The license: CC BY 4.0
 5. Any changes made to the original work
 
 Example attribution:
 
-"Curate, Cultivate, Connect Knowledge System" by Jason Gilbertson and Terri Yeh, licensed under CC BY 4.0. Original source: https://github.com/jrgilbertson/curate-connect-cultivate-knowledge-system. [Describe any changes if applicable.]
+"Curate, Connect, Cultivate Knowledge System" by Jason Gilbertson and Terri Yeh, licensed under CC BY 4.0. Original source: https://github.com/jrgilbertson/curate-connect-cultivate-knowledge-system. [Describe any changes if applicable.]
+
+## Note on Related Works
+
+This repository contains the vault template and basic methodology documentation. The comprehensive book "Curate, Connect, Cultivate" by Jason Gilbertson and Terri Yeh (working title; forthcoming 2026) is a separate work with its own copyright.
