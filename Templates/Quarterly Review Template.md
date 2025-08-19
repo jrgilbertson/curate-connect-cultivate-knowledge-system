@@ -1,7 +1,7 @@
 ---
-aliases: 
-date_created: 2025-07-12 19:07
-date_modified: 2025-07-12 19:07
+aliases: []
+date_created:
+date_modified:
 tags:
   - quarterly-review
 title: Quarterly Review

@@ -50,10 +50,10 @@
       "date-modified": true,
       "date-modified-key": "date_modified",
       "format": "YYYY-MM-DD HH:MM",
-      "date-created-source-of-truth": "frontmatter",
+      "date-created-source-of-truth": "file system",
       "date-modified-source-of-truth": "file system",
       "convert-to-utc": true,
-      "update-on-file-contents-updated": "after 15 seconds"
+      "update-on-file-contents-updated": "never"
     },
     "yaml-title": {
       "enabled": true,
@@ -187,7 +187,7 @@
     },
     "trailing-spaces": {
       "enabled": true,
-      "twp-space-line-break": true
+      "two-space-line-break": true
     },
     "add-blockquote-indentation-on-paste": {
       "enabled": true
@@ -281,9 +281,7 @@
   "lintOnFileChange": false,
   "displayLintOnFileChangeNotice": false,
   "settingsConvertedToConfigKeyValues": true,
-  "foldersToIgnore": [
-    ""
-  ],
+  "foldersToIgnore": [],
   "filesToIgnore": [],
   "linterLocale": "system-default",
   "logLevel": "ERROR",
