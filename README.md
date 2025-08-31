@@ -1,6 +1,7 @@
+
 # Curate, Cultivate, Connect Knowledge System
 
-_Note: This repository demonstrates the open-source Curate, Connect, Cultivate knowledge management methodology for human-AI collaboration. A comprehensive book expanding on these concepts is forthcoming in 2026. For information or early access, contact jason.gilbertson@gmail.com_
+_Note: This repository demonstrates the open-source Curate, Connect, Cultivate knowledge management methodology for human-AI collaboration. A comprehensive book expanding on these concepts is forthcoming in 2026. For information or early access, contact jason.gilbertson@gmail.com._
 
 ## Overview
 
@@ -10,7 +11,7 @@ This is an Obsidian-based personal knowledge management system template that pro
 
 ### Why Traditional Knowledge Management Fails
 
-Most knowledge management systems fail for the same reasons. Tags proliferate into hundreds of variations—"productivity" becomes "productive," "getting-things-done," "GTD," "efficiency," each creating another silo. Folders force artificial hierarchies on naturally networked information. Search breaks down when you can't remember if you wrote "transformer" or "attention model." 
+Most knowledge management systems fail for the same reasons. Tags proliferate into hundreds of variations—"productivity" becomes "productive," "getting-things-done," "GTD," "efficiency," each creating another silo. Folders force artificial hierarchies on naturally networked information. Search breaks down when you can't remember if you wrote "transformer" or "attention model."
 
 The deeper problem is that we confuse collecting with understanding. Every saved article feels productive, but saving isn't learning. We build warehouses of facts when we need gardens of understanding.
 
@@ -21,9 +22,7 @@ Even sophisticated systems like Luhmann's Zettelkasten, which produced 70 books 
 The Curate, Connect, Cultivate methodology addresses these fundamental issues:
 
 - **Curate**: Practice selective capture based on clear criteria. Not everything deserves to be saved. Each piece of information should earn its place through genuine utility or insight. This constraint forces actual engagement with ideas rather than deferred understanding.
-
 - **Connect**: Build explicit relationships between ideas using aliases, backlinks, and cross-references. Knowledge naturally forms networks, not hierarchies. Multiple pathways to the same concept mirror how human memory works and how AI systems process information.
-
 - **Cultivate**: Maintain a living system through consistent practices. Notes evolve as understanding deepens. Connections strengthen through use. Outdated information gets pruned or updated. The system becomes more valuable over time through active tending.
 
 ### Five Principles That Enable Human-AI Collaboration
@@ -31,13 +30,9 @@ The Curate, Connect, Cultivate methodology addresses these fundamental issues:
 The methodology operates on five principles:
 
 1. **Atomic thinking with consistent structure**: One idea per note, with internal organization that supports both human understanding and machine parsing. Each note answers a single, clear question.
-
 2. **Selective curation using explicit criteria**: Information must be worth your future self's time. The discipline of choosing creates understanding that collecting never can.
-
 3. **Explicit connections through aliases and links**: Relationships between ideas must be visible and navigable. Implicit organization fails at scale.
-
 4. **Natural language for broad accessibility**: Clear writing that your future self can understand is also what AI systems can work with effectively.
-
 5. **Evolution through active maintenance**: Understanding changes over time. Notes should reflect that growth rather than remaining static artifacts.
 
 ### A System Designed for How We Actually Think

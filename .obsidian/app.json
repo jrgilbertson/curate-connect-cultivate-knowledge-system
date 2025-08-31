@@ -3,7 +3,7 @@
   "foldHeading": true,
   "alwaysUpdateLinks": true,
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "/",
+  "attachmentFolderPath": "Attachments",
   "promptDelete": false,
   "defaultViewMode": "source",
   "communityThemeSortOrder": "download",
@@ -15,5 +15,7 @@
   "autoPairMarkdown": false,
   "spellcheckDictionary": [
     "Nocebo"
-  ]
+  ],
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Inbox"
 }

@@ -17,13 +17,13 @@
     "format": "",
     "template": "Templates/Monthly Review Template.md",
     "folder": "Reviews/Monthly Review",
-    "enabled": true
+    "enabled": false
   },
   "quarterly": {
     "format": "",
     "template": "Templates/Quarterly Review Template.md",
     "folder": "Reviews/Quarterly Review",
-    "enabled": true
+    "enabled": false
   },
   "yearly": {
     "format": "",

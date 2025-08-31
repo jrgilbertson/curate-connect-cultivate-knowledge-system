@@ -13,12 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CLAUDE.md",
+                "file": "Atomic Notes/202508311127 The principle of atomicity is the practice of breaking information into small, self-contained units, with each unit focused on a single, complete idea.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": false
+                }
               },
               "icon": "lucide-file",
-              "title": "CLAUDE"
+              "title": "202508311127 The principle of atomicity is the practice of breaking information into small, self-contained units, with each unit focused on a single, complete idea"
             }
           }
         ]
@@ -86,12 +96,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CLAUDE.md",
+                "file": "Atomic Notes/202508311127 The principle of atomicity is the practice of breaking information into small, self-contained units, with each unit focused on a single, complete idea.md",
                 "linksCollapsed": true,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from CLAUDE"
+              "title": "Outgoing links from 202508311127 The principle of atomicity is the practice of breaking information into small, self-contained units, with each unit focused on a single, complete idea"
             }
           },
           {
@@ -100,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Reviews/Daily Notes/2025-01-28.md",
+                "file": "Atomic Notes/202508311127 The principle of atomicity is the practice of breaking information into small, self-contained units, with each unit focused on a single, complete idea.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +120,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-01-28"
+              "title": "Backlinks for 202508311127 The principle of atomicity is the practice of breaking information into small, self-contained units, with each unit focused on a single, complete idea"
             }
           },
           {
@@ -204,42 +214,42 @@
   },
   "active": "1ad7d3dd4764ce9f",
   "lastOpenFiles": [
+    "Atomic Notes/202508311142 A graph is a non-linear data structure composed of a set of vertices (or nodes) and a set of edges that represent connections between these vertices.md",
+    "Atomic Notes/202508311127 The principle of atomicity is the practice of breaking information into small, self-contained units, with each unit focused on a single, complete idea.md",
+    "Atomic Notes/202504231231 The Stoic dichotomy of control divides reality into things we can control—our judgments, desires, and actions—and things we cannot, such as external events, other people, and outcomes.md",
+    "Atomic Notes/202508311132 Modularity is a software design principle that involves dividing a program into separate, independent modules, where each module is responsible for a specific piece of the program's functionality.md",
+    "Reviews/Daily Notes/2025-08-31.md",
+    "Atomic Notes/202508311058 An atomic note is a self-contained unit of knowledge that captures a single, complete idea.md",
+    "Reference Notes/Books/How to Take Smart Notes.md",
+    "Reference Notes/Books",
+    "Reference Notes/Articles",
+    "Templates/Reference Note Template.md",
+    "Templates/Atomic Note Template (Default).md",
+    "Prompts/atomic-note-generator.md",
     "GETTING-STARTED.md",
-    "LICENSE.md",
+    "Templates/Structure Note Template.md",
     "README.md",
+    "Prompts/atomic-note-generator.xml",
+    "Prompts",
     "Templates/Weekly Review Template.md",
     "Templates/Vocabulary Template.md",
-    "Templates/Reference Template.md",
-    "Templates/Quarterly Review Template.md",
     "Templates/Person Template.md",
     "Templates/Meeting Template.md",
-    "Templates/Job Opportunity Template.md",
-    "Templates/Job Interview Template.md",
     "Templates/General Note Template.md",
     "Templates/Daily Note Template.md",
     "Templates/Atomic Note Template (Anki).md",
-    "Templates/Atomic Note Template.md",
+    "LICENSE.md",
+    "Templates/Job Interview Template.md",
+    "Templates/Job Opportunity Template.md",
     "CLAUDE.md",
+    "Templates/Quarterly Review Template.md",
     "CLAUDE.md.tmp.61697.1752349753739",
     "CLAUDE.md.tmp.61697.1752349741870",
     "Reviews/Daily Notes/2025-07-12.md",
-    "Reviews/Weekly Review/2025-W28.md",
     "Reviews/Weekly Review",
     "Reviews/Quarterly Reviews",
     "Reviews/Interviews",
     "Reviews/Decisions",
-    "Reviews/Daily Notes",
-    "Vocabulary Notes",
-    "Structure Notes",
-    "Reviews",
-    "Vocabulary Notes/202201251646 Nocebo.md",
-    "Templates/Writing Template.md",
-    "Templates/Project Template.md",
-    "Templates/Decision Template.md",
-    "Structure Notes/202112301003 The Science of Well-Being.md",
-    "Reviews/Daily Notes/2022-06-07.md",
-    "People/John Doe.md",
-    "People/Jane Doe.md",
     "Attachments/Pasted image 20250623141528.png",
     "Attachments/20250503145221 creation.png",
     "Attachments/20250503144834 which way is up.png",
