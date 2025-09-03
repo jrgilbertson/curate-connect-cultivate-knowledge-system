@@ -1,110 +1,101 @@
+# Curate, Connect, Cultivate Knowledge System
 
-# Curate, Cultivate, Connect Knowledge System
+A companion vault for the book "Curate, Connect, Cultivate: Build a Personal Knowledge System That Grows With You" (coming 2026). This Obsidian vault demonstrates a methodology for building a sustainable personal knowledge management system that works with how you actually think—and how AI tools process information.
 
-_Note: This repository demonstrates the open-source Curate, Connect, Cultivate knowledge management methodology for human-AI collaboration. A comprehensive book expanding on these concepts is forthcoming in 2026. For information or early access, contact jason.gilbertson@gmail.com._
+## Why This System?
 
-## Overview
+### The Problem with Traditional Knowledge Management
 
-This is an Obsidian-based personal knowledge management system template that provides a structured approach to organizing notes, knowledge, and information using the Curate, Connect, Cultivate methodology.
+Most knowledge management systems fail because they optimize for collecting rather than understanding. Tags proliferate into chaos. Folders force artificial hierarchies on networked information. You save everything but understand nothing. Even sophisticated systems like [[202509011003 The Zettelkasten method is a knowledge management system that organizes information into a network of interconnected, atomic notes|Zettelkasten]] need adaptation for our digital, AI-enhanced world.
 
-## Curate, Connect, Cultivate Methodology
+### The Curate, Connect, Cultivate Solution
 
-### Why Traditional Knowledge Management Fails
+This methodology addresses these fundamental issues through three core practices:
 
-Most knowledge management systems fail for the same reasons. Tags proliferate into hundreds of variations—"productivity" becomes "productive," "getting-things-done," "GTD," "efficiency," each creating another silo. Folders force artificial hierarchies on naturally networked information. Search breaks down when you can't remember if you wrote "transformer" or "attention model."
+1. **Curate**: Practice selective capture based on clear criteria. Not everything deserves to be saved. Our [[202509030651 The 5W framework is a system that uses five quality-gate questions to decide whether to engage with a piece of information|5W framework]] (What for? Why now? What else? Who from? Where to?) ensures each piece of information earns its place through genuine utility.
+2. **Connect**: Build explicit relationships between ideas using aliases, backlinks, and [[202509011019 A structure note serves as a curated entry point or an organized overview of a specific topic or line of thought within a note network|structure notes]]. Knowledge forms networks, not hierarchies. Multiple pathways to the same concept mirror how memory works and how AI processes information.
+3. **Cultivate**: Maintain a living system through consistent practices. Notes evolve as understanding deepens. Connections strengthen through use. The system becomes more valuable over time through active tending.
 
-The deeper problem is that we confuse collecting with understanding. Every saved article feels productive, but saving isn't learning. We build warehouses of facts when we need gardens of understanding.
+## What's Included
 
-Even sophisticated systems like Luhmann's Zettelkasten, which produced 70 books and 500+ articles, require adaptation for our current context. Digital tools and AI collaboration demand structure that didn't exist in the paper-based world of the 1960s.
+### ✅ Complete and Ready to Use
 
-### Three Core Practices
+- **12 [[202508311058 An atomic note is a self-contained unit of knowledge that captures a single, complete idea|Atomic Notes]]**: Demonstrating single-concept clarity with the [[202509030636 The DAE framework is a structured method for writing atomic notes that ensures clarity and retention by organizing each note into three parts—a concise Definition, a relatable Analogy, and a concrete Example|DAE framework]] (Definition-Analogy-Example)
+- **3 [[202509011019 A structure note serves as a curated entry point or an organized overview of a specific topic or line of thought within a note network|Structure Notes]]**: Showing how to organize and navigate knowledge networks
+	- [[Curate, Connect, Cultivate System]] (main methodology hub)
+	- [[Thinking and Learning]] (cognitive tools and memory)
+	- [[System Design]] (architecture principles)
+- **10 Templates**: For consistent note creation across all types
+	- [[202508311058 An atomic note is a self-contained unit of knowledge that captures a single, complete idea|Atomic Note]] (standard and Anki versions)
+	- Daily Note, Weekly Review, Meeting Note
+	- [[202509030621 A reference note captures key ideas from an external source, serving as a bridge between consuming information and creating original thought|Reference Note]], [[202509011019 A structure note serves as a curated entry point or an organized overview of a specific topic or line of thought within a note network|Structure Note]], Person Note
+	- Vocabulary Note, General Note
+- **1 [[202509030621 A reference note captures key ideas from an external source, serving as a bridge between consuming information and creating original thought|Reference Note]]**: "[[How to Take Smart Notes]]" fully processed and linked
+- **Core Folder Structure**: Organized for both human navigation and AI compatibility
 
-The Curate, Connect, Cultivate methodology addresses these fundamental issues:
+### 🚧 Coming Soon
 
-- **Curate**: Practice selective capture based on clear criteria. Not everything deserves to be saved. Each piece of information should earn its place through genuine utility or insight. This constraint forces actual engagement with ideas rather than deferred understanding.
-- **Connect**: Build explicit relationships between ideas using aliases, backlinks, and cross-references. Knowledge naturally forms networks, not hierarchies. Multiple pathways to the same concept mirror how human memory works and how AI systems process information.
-- **Cultivate**: Maintain a living system through consistent practices. Notes evolve as understanding deepens. Connections strengthen through use. Outdated information gets pruned or updated. The system becomes more valuable over time through active tending.
+- **Workflow Examples**: Daily capture routines, weekly reviews, meeting notes
+- **Additional Sample Notes**: Person profiles, vocabulary entries
+- **AI Integration Guide**: Prompts and workflows for AI-assisted knowledge work
+- **Advanced Techniques**: Cross-domain linking, emergence patterns
 
-### Five Principles That Enable Human-AI Collaboration
+## Five Principles for Human-AI Collaboration
 
-The methodology operates on five principles:
-
-1. **Atomic thinking with consistent structure**: One idea per note, with internal organization that supports both human understanding and machine parsing. Each note answers a single, clear question.
-2. **Selective curation using explicit criteria**: Information must be worth your future self's time. The discipline of choosing creates understanding that collecting never can.
-3. **Explicit connections through aliases and links**: Relationships between ideas must be visible and navigable. Implicit organization fails at scale.
-4. **Natural language for broad accessibility**: Clear writing that your future self can understand is also what AI systems can work with effectively.
-5. **Evolution through active maintenance**: Understanding changes over time. Notes should reflect that growth rather than remaining static artifacts.
-
-### A System Designed for How We Actually Think
-
-This approach works because it aligns with cognitive science research on how humans process and retain information. When you write in your own words, create explicit connections, and regularly review and refine, you engage the same mechanisms that create lasting understanding.
-
-The compatibility with AI systems isn't coincidental. Large language models process information through patterns and relationships—exactly what this methodology makes explicit. Your knowledge system becomes a thinking partner that both you and AI tools can navigate effectively.
-
-_For implementation details, workflows, and the complete methodology, see the forthcoming book "Curate, Connect, Cultivate: Build a Personal Knowledge System That Grows With You" by Jason Gilbertson and Terri Yeh (2026)._
-
-## Folder Structure
-
-The vault is organized into the following directories:
-
-- **Attachments/** - Media files and attachments
-- **Atomic Notes/** - Individual concept notes following Zettelkasten principles
-- **Inbox/** - Temporary storage for unprocessed notes
-- **Jobs/** - Job opportunities and career-related information
-- **Meetings/** - Meeting notes and records
-- **People/** - Notes about individuals you interact with or study
-- **Places and Things/** - Notes about locations, objects, and tools
-- **Projects/** - Project documentation and planning
-- **Reference Notes/** - Notes from books, articles, and other external sources
-- **Reviews/** - Periodic reviews and reflections
-	- **Daily Notes/** - Daily journals and reflections
-	- **Decisions/** - Decision logs and analysis
-	- **Interviews/** - Interview notes and feedback
-	- **Quarterly Reviews/** - Quarterly assessments and goal setting
-	- **Weekly Review/** - Weekly summaries and planning
-- **Structure Notes/** - Index note that connect related concepts
-- **Templates/** - Reusable templates for different note types
-- **Vocabulary Notes/** - Definitions and explanations of terms
+1. **Atomic thinking with consistent structure**: One idea per note with internal organization supporting both human understanding and machine parsing
+2. **Selective curation using explicit criteria**: Information must be worth your future self's time
+3. **Explicit connections through aliases and links**: Relationships between ideas must be visible and navigable
+4. **Natural language for broad accessibility**: Clear writing that humans understand is what AI systems can process
+5. **Evolution through active maintenance**: Notes should reflect growing understanding, not remain static
 
 ## Getting Started
 
-1. Install [Obsidian](https://obsidian.md/)
-2. Clone or download this repository
-3. Open the folder as a vault in Obsidian
-4. **Read the [Getting Started Guide](GETTING-STARTED.md)** for methodology overview
-5. Review the templates in the `Templates/` folder
-6. Start creating your own notes using the provided structure
+1. **Install [Obsidian](https://obsidian.md/)** - Free, local-first knowledge management
+2. **Clone or download this repository** - Get the complete vault structure
+3. **Open the folder as a vault in Obsidian** - File → Open Vault → Select folder
+4. **Follow the [GETTING-STARTED.md](GETTING-STARTED.md) guide** - 30-minute hands-on introduction
 
-## Templates
+## Vault Structure
 
-The system includes templates for:
+```python sql
+companion-vault/
+├── Atomic Notes/          # Single-concept notes (YYYYMMDDHHMM format)
+├── Structure Notes/       # Topic maps and navigation hubs
+├── Reference Notes/       # Literature notes from external sources
+├── Templates/            # Consistent starting points
+├── Inbox/               # Capture before curation
+├── Reviews/             # Daily, weekly, quarterly reflections
+├── Projects/            # Active project documentation
+├── People/              # Individual profiles and connections
+├── Meetings/            # Meeting notes and decisions
+└── Attachments/         # Images and supporting files
+```
 
-- Atomic notes (with and without Anki integration)
-- Daily notes
-- Weekly and quarterly reviews
-- Meeting notes
-- People profiles
-- Job opportunities and interviews
-- Reference materials
-- Vocabulary entries
-- General notes
+## Key Features
 
-## Plugins
+- **Timestamp-based naming** (YYYYMMDDHHMM) ensures uniqueness and chronology
+- **Consistent note structure** via templates for reliable processing
+- **Multiple navigation paths** through aliases, tags, and backlinks
+- **Minimal plugin dependencies** for sustainability and portability
+- **Git-friendly plain text** for version control and collaboration
+- **AI-compatible structure** for enhanced knowledge work
 
-This vault comes configured with several helpful plugins:
+## Philosophy
 
-- Calendar - Visual calendar interface
-- Dataview - Query and display data from notes
-- Natural Language Dates - Parse natural language dates
-- Periodic Notes - Manage daily/weekly/quarterly notes
-- Linter - Maintain consistent formatting
-- Tag Wrangler - Manage and organize tags
-- Outliner - Enhanced outline functionality
+This system works because it aligns with cognitive science research on how humans process and retain information. When you write in your own words, create explicit connections, and regularly review and refine, you engage the mechanisms that create lasting understanding.
 
-## Contributing
+The AI compatibility isn't coincidental. Large language models process information through patterns and relationships—exactly what this methodology makes explicit. Your knowledge system becomes a thinking partner that both you and AI tools can navigate effectively.
 
-This system is continuously evolving. If you have suggestions or improvements, please feel free to open an issue or submit a pull request.
+## Learn More
+
+- **Book**: "Curate, Connect, Cultivate" by Jason Gilbertson and Terri Yeh (coming 2026)
+- **Contact**: jason.gilbertson@gmail.com for early access or questions
+- **Updates**: Star this repository for notification of new features and workflow examples
 
 ## License
 
-This work is licensed under the [Creative Commons Attribution 4.0 International License (CC BY 4.0)](LICENSE.md).
+This vault template is released under Creative Commons CC BY 4.0. You're free to use, modify, and share with attribution.
+
+---
+
+*Note: This is an active project. Star the repository to be notified when workflow examples and AI integration guides are added.*

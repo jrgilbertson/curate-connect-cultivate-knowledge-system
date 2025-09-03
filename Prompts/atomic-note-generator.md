@@ -10,7 +10,7 @@ title: Atomic Note Generator
 
 ## Goal
 
-Generate up to three atomic notes on the provided topic. Each note must capture a single, stand-alone concept suitable for integration into an atomic note system with spaced repetition flashcards.
+Generate up to three atomic notes on the provided topic. Each note must capture a single, stand-alone concept suitable for integration into an atomic note system with [[202509010952 Spaced repetition is a learning technique that involves reviewing information at increasing intervals to improve long-term retention|spaced repetition]] flashcards.
 
 ## Return Format
 

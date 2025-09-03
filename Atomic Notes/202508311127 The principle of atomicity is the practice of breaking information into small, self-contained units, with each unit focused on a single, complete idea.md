@@ -20,3 +20,4 @@ Sources:
 
 1. Gemini 2.5 last accessed [[2025-08-31]]
 2. [[How to Take Smart Notes]] last accessed [[2025-08-31]]
+3. Forthcoming Curate, Connect, Cultivate book last accessed [[2025-09-03]]
