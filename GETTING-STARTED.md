@@ -1,75 +1,166 @@
-# Getting Started with the Curate, Connect, Cultivate System
+# Getting Started Guide
 
-This guide will help you understand the journey from encountering information to building a connected knowledge system.
+Welcome! This guide will walk you through exploring and using the Curate, Connect, Cultivate knowledge system. By the end, you'll understand how to create, connect, and cultivate your own knowledge network.
 
-## The Journey: From Information to Understanding
+## Before You Begin
 
-Every piece of knowledge in this system follows a simple but powerful journey:
+**Prerequisites:**
+- [ ] Obsidian installed and opened
+- [ ] This vault loaded in Obsidian
+- [ ] 30 minutes of focused time
 
-1. **Encounter** → You find something interesting (article, idea, conversation)
-2. **Capture** → Quick save to your Inbox folder for later processing
-3. **Curate** → Decide if it's worth keeping (most things aren't)
-4. **Transform** → Convert into an atomic note (one concept, clearly expressed)
-5. **Connect** → Link to existing notes and add to structure notes
-6. **Cultivate** → Review, refine, and evolve over time
+**What You'll Accomplish:**
+- Explore the existing knowledge network
+- Create your first [[202508311058 An atomic note is a self-contained unit of knowledge that captures a single, complete idea|atomic note]]
+- Connect it to the system
+- Set up your daily workflow
 
-## Understanding the Folder Structure
+## Part 1: Explore the System (10 minutes)
 
-Each folder serves a specific purpose in your knowledge workflow:
+### Start with the Main Hub
 
-- **Inbox/** - Your capture zone. Everything starts here before processing.
-- **Atomic Notes/** - Single-concept notes with timestamps (YYYYMMDDHHMM format) for unique identification.
-- **Structure Notes/** - Maps that organize and connect related atomic notes by topic or theme.
-- **Reference Notes/** - Literature notes from books, articles, and external sources you're processing.
-- **Reviews/** - Daily, weekly, and quarterly reflections that track your learning journey.
-- **Templates/** - Consistent starting points for different note types.
-- **People/**, **Projects/**, **Meetings/** - Context-specific notes for professional knowledge work.
+1. **Open the [[Curate, Connect, Cultivate System]] [[202509011019 A structure note serves as a curated entry point or an organized overview of a specific topic or line of thought within a note network|structure note]]**
+	- Located in `Structure Notes/` folder
+	- This is your main navigation hub
+	- Click through 2-3 linked [[202508311058 An atomic note is a self-contained unit of knowledge that captures a single, complete idea|atomic notes]] to see how concepts connect
 
-## Using the Templates
+### Understand the Core Components
 
-Templates provide consistent structure without constraining creativity:
+2. **Explore an [[202508311058 An atomic note is a self-contained unit of knowledge that captures a single, complete idea|Atomic Note]]**
+	- Notice the timestamp format (YYYYMMDDHHMM)
+	- See the [[202509030636 The DAE framework is a structured method for writing atomic notes that ensures clarity and retention by organizing each note into three parts—a concise Definition, a relatable Analogy, and a concrete Example|DAE]] structure: Definition, Analogy, Example
+	- Check the aliases and connections at the bottom
 
-### Essential Templates
+3. **Follow a Connection**
+	- Click a link to another note
+	- Notice how concepts build on each other
+	- Use the backlinks panel to see what links here
 
-1. **Atomic Note Template** - For capturing single concepts
-   - Use when: You want to record one discrete idea or insight
-   - Key feature: Structured format ensures clarity and retrievability
+### See the Organization
 
-2. **Daily Note Template** - For daily reflection and capture
-   - Use when: Starting or ending your day
-   - Key feature: Links the day's experiences to your growing knowledge
+4. **Browse the [[202509011019 A structure note serves as a curated entry point or an organized overview of a specific topic or line of thought within a note network|Structure Notes]]**
+	- Each one is a topic map for related concepts
+	- Notice how some [[202508311058 An atomic note is a self-contained unit of knowledge that captures a single, complete idea|atomic notes]] appear in multiple structures
+	- This is intentional—knowledge is networked, not hierarchical
 
-3. **Weekly Review Template** - For pattern recognition and planning
-   - Use when: Weekly reflection sessions
-   - Key feature: Surfaces patterns and guides upcoming focus
+## Part 2: Create Your First [[202508311058 An atomic note is a self-contained unit of knowledge that captures a single, complete idea|Atomic Note]] (15 minutes)
 
-### Creating Your First Atomic Note
+### Choose Your Concept
 
-1. Start with something you learned today
-2. Ask yourself: "What's the one core idea here?"
-3. Create a new note from the Atomic Note Template
-4. Give it a timestamp filename (YYYYMMDDHHMM) and descriptive title
-5. Write the concept in your own words
-6. Add relevant aliases (alternative terms you might search for)
-7. Link to related notes if any exist
+1. **Think of something you learned recently**
+	- A concept from work
+	- An insight from reading
+	- A pattern you've noticed
 
-## Core Principles to Remember
+	Ask yourself: "What's the ONE core idea here?"
 
-- **Quality over quantity**: Better to have 10 well-crafted atomic notes than 100 unprocessed clips
-- **Your own words matter**: Rewriting in your language creates understanding
-- **Connections compound**: Each link between notes multiplies the value of both
-- **Start small**: Begin with one atomic note per day
-- **Evolution is expected**: Notes should change as your understanding deepens
+### Use the Template
 
-## Next Steps
+2. **Create a new note from template**
+	- Click the "Create new note" button
+	- Apply the `Templates/Atomic Note Template`
+	- Name it: `YYYYMMDDHHMM Your concept in a complete sentence.md`
+	- Example: `202501151430 Compound interest applies to knowledge not just money.md`
 
-1. Create your first daily note to capture today's thoughts
-2. Process one item from your inbox into an atomic note
-3. Create a structure note for a topic you're currently learning
-4. Establish a simple daily rhythm (10 minutes morning, 15 minutes evening)
+### Fill in the Structure
 
-Remember: This system grows with you. Start simple, stay consistent, and let the connections emerge naturally.
+3. **Write your note using [[202509030636 The DAE framework is a structured method for writing atomic notes that ensures clarity and retention by organizing each note into three parts—a concise Definition, a relatable Analogy, and a concrete Example|DAE]]**
+	- **Definition** (20-60 words): Explain the concept in your own words
+	- **Analogy**: Compare it to something familiar
+	- **Example**: Give a concrete instance
+
+4. **Add metadata**
+	- Add 2-3 aliases (other ways you might search for this)
+	- Link to related notes if any exist (it's OK if none do yet)
+
+### Connect to the System
+
+5. **Add to a [[202509011019 A structure note serves as a curated entry point or an organized overview of a specific topic or line of thought within a note network|Structure Note]]**
+	- Open the most relevant [[202509011019 A structure note serves as a curated entry point or an organized overview of a specific topic or line of thought within a note network|structure note]]
+	- Add a link to your new [[202508311058 An atomic note is a self-contained unit of knowledge that captures a single, complete idea|atomic note]]
+
+## Part 3: Set Up Your Workflow (5 minutes)
+
+### Configure Daily Notes
+
+1. **Set up the hotkey**
+	- Settings → Hotkeys → Search "daily note"
+	- Set to something memorable (e.g., Cmd/Ctrl + D)
+	- Test it to create today's daily note
+
+### Establish Your Rhythm
+
+2. **Morning Capture (5 minutes)**
+	- Open daily note
+	- Capture thoughts, tasks, ideas in the Inbox section
+	- Don't process yet—just capture
+
+3. **Evening Process (10 minutes)**
+	- Review the day's captures
+	- Convert worthy items to [[202508311058 An atomic note is a self-contained unit of knowledge that captures a single, complete idea|atomic notes]]
+	- Link and connect
+	- Delete the rest without guilt
+
+### Schedule Weekly Review
+
+4. **Pick your review day**
+	- Add a recurring calendar reminder
+	- Use the [[Weekly Review template]]
+	- Focus: patterns, connections, pruning
+
+## Quick Start Checklist
+
+**Right Now:**
+- [ ] Create your first daily note (Cmd/Ctrl + D)
+- [ ] Capture one thought or learning
+- [ ] Create one [[202508311058 An atomic note is a self-contained unit of knowledge that captures a single, complete idea|atomic note]] from it
+
+**This Week:**
+- [ ] Create one [[202508311058 An atomic note is a self-contained unit of knowledge that captures a single, complete idea|atomic note]] per day
+- [ ] Add each to a [[202509011019 A structure note serves as a curated entry point or an organized overview of a specific topic or line of thought within a note network|structure note]]
+- [ ] Do your first weekly review
+
+**This Month:**
+- [ ] Build 20-30 [[202508311058 An atomic note is a self-contained unit of knowledge that captures a single, complete idea|atomic notes]]
+- [ ] Create your own [[202509011019 A structure note serves as a curated entry point or an organized overview of a specific topic or line of thought within a note network|structure note]] for a topic you're learning
+- [ ] Start seeing connections emerge
+
+## Common Questions
+
+**Q: How do I know if something deserves to be an [[202508311058 An atomic note is a self-contained unit of knowledge that captures a single, complete idea|atomic note]]?**
+A: Use the [[202509030651 The 5W framework is a system that uses five quality-gate questions to decide whether to engage with a piece of information|5W framework]]: What for? Why now? What else? Who from? Where to? If it passes 3+ questions, it's worth capturing.
+
+**Q: What if I can't find connections to other notes?**
+A: We discourage orphan notes—every [[202508311058 An atomic note is a self-contained unit of knowledge that captures a single, complete idea|atomic note]] should have at least one home. If your new note doesn't fit existing [[202509011019 A structure note serves as a curated entry point or an organized overview of a specific topic or line of thought within a note network|structure notes]], that's a signal to create a new [[202509011019 A structure note serves as a curated entry point or an organized overview of a specific topic or line of thought within a note network|structure note]] for this emerging topic. Even if it starts with just one [[202508311058 An atomic note is a self-contained unit of knowledge that captures a single, complete idea|atomic note]], the [[202509011019 A structure note serves as a curated entry point or an organized overview of a specific topic or line of thought within a note network|structure note]] ensures discoverability and provides a place for related notes to gather as your understanding grows.
+
+**Q: Should I import my existing notes?**
+A: No. Start fresh. Only bring in notes as you need to reference them, rewriting them in atomic format.
+
+**Q: How many [[202509011019 A structure note serves as a curated entry point or an organized overview of a specific topic or line of thought within a note network|structure notes]] should I have?**
+A: Start with the three provided. Create new ones whenever you have [[202508311058 An atomic note is a self-contained unit of knowledge that captures a single, complete idea|atomic notes]] that don't fit existing structures—even if it's just one note on a new topic. This prevents orphans and creates space for related notes to gather.
+
+## What's Next?
+
+### Coming Soon
+
+- **Workflow Examples**: We're developing detailed examples of daily capture, weekly review, and meeting note workflows
+- **AI Integration Guide**: Prompts and patterns for using AI with your vault
+- **Advanced Techniques**: Cross-referencing, emergence recognition, and more
+
+### Continue Learning
+
+- Explore the other two [[202509011019 A structure note serves as a curated entry point or an organized overview of a specific topic or line of thought within a note network|structure notes]] ([[Thinking and Learning]], [[System Design]])
+- Read through existing [[202508311058 An atomic note is a self-contained unit of knowledge that captures a single, complete idea|atomic notes]] for examples
+- Review the templates to understand different note types
+- Check the [[202509030621 A reference note captures key ideas from an external source, serving as a bridge between consuming information and creating original thought|reference note]] to see how to process sources
+
+### Remember
+
+- **Start small**: One note per day is better than ten rushed notes
+- **Use your own words**: Rewriting creates understanding
+- **Trust the process**: Connections emerge naturally over time
+- **Stay curious**: The best notes come from genuine interest
 
 ---
 
-_For complete workflows, advanced techniques, and the theory behind this methodology, see the forthcoming book "Curate, Connect, Cultivate: Build a Personal Knowledge System That Grows With You" (2026)._
+*For the complete methodology and theory behind this system, see "Curate, Connect, Cultivate" by Jason Gilbertson and Terri Yeh (coming 2026).*

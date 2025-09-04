@@ -1,21 +1,14 @@
 {
   "collapse-filter": true,
-  "search": "",
+  "search": "-path:Templates -path:Prompts  -path:Reviews  ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:People",
-      "color": {
-        "a": 1,
-        "rgb": 14883356
-      }
-    },
-    {
-      "query": "path:Places",
+      "query": "path:\"Places and Things\"  ",
       "color": {
         "a": 1,
         "rgb": 16489113
@@ -43,13 +36,6 @@
       }
     },
     {
-      "query": "path:Someday",
-      "color": {
-        "a": 1,
-        "rgb": 16629615
-      }
-    },
-    {
       "query": "path:Inbox",
       "color": {
         "a": 1,
@@ -57,10 +43,10 @@
       }
     },
     {
-      "query": "path:Writing",
+      "query": "path:People  ",
       "color": {
         "a": 1,
-        "rgb": 3383340
+        "rgb": 14362921
       }
     }
   ],
@@ -74,6 +60,6 @@
   "repelStrength": 11.2686965811966,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.8628475771321847,
-  "close": false
+  "scale": 1.7769070410508412,
+  "close": true
 }
