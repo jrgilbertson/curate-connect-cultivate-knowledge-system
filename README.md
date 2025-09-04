@@ -6,31 +6,31 @@ A companion vault for the book "Curate, Connect, Cultivate: Build a Personal Kno
 
 ### The Problem with Traditional Knowledge Management
 
-Most knowledge management systems fail because they optimize for collecting rather than understanding. Tags proliferate into chaos. Folders force artificial hierarchies on networked information. You save everything but understand nothing. Even sophisticated systems like [[202509011003 The Zettelkasten method is a knowledge management system that organizes information into a network of interconnected, atomic notes|Zettelkasten]] need adaptation for our digital, AI-enhanced world.
+Most knowledge management systems fail because they optimize for collecting rather than understanding. Tags proliferate into chaos. Folders force artificial hierarchies on networked information. You save everything but understand nothing. Even sophisticated systems like Zettelkasten need adaptation for our digital, AI-enhanced world.
 
 ### The Curate, Connect, Cultivate Solution
 
 This methodology addresses these fundamental issues through three core practices:
 
-1. **Curate**: Practice selective capture based on clear criteria. Not everything deserves to be saved. Our [[202509030651 The 5W framework is a system that uses five quality-gate questions to decide whether to engage with a piece of information|5W framework]] (What for? Why now? What else? Who from? Where to?) ensures each piece of information earns its place through genuine utility.
-2. **Connect**: Build explicit relationships between ideas using aliases, backlinks, and [[202509011019 A structure note serves as a curated entry point or an organized overview of a specific topic or line of thought within a note network|structure notes]]. Knowledge forms networks, not hierarchies. Multiple pathways to the same concept mirror how memory works and how AI processes information.
+1. **Curate**: Practice selective capture based on clear criteria. Not everything deserves to be saved. Our 5W framework (What for? Why now? What else? Who from? Where to?) ensures each piece of information earns its place through genuine utility.
+2. **Connect**: Build explicit relationships between ideas using aliases, backlinks, and structure notes. Knowledge forms networks, not hierarchies. Multiple pathways to the same concept mirror how memory works and how AI processes information.
 3. **Cultivate**: Maintain a living system through consistent practices. Notes evolve as understanding deepens. Connections strengthen through use. The system becomes more valuable over time through active tending.
 
 ## What's Included
 
 ### ✅ Complete and Ready to Use
 
-- **12 [[202508311058 An atomic note is a self-contained unit of knowledge that captures a single, complete idea|Atomic Notes]]**: Demonstrating single-concept clarity with the [[202509030636 The DAE framework is a structured method for writing atomic notes that ensures clarity and retention by organizing each note into three parts—a concise Definition, a relatable Analogy, and a concrete Example|DAE framework]] (Definition-Analogy-Example)
-- **3 [[202509011019 A structure note serves as a curated entry point or an organized overview of a specific topic or line of thought within a note network|Structure Notes]]**: Showing how to organize and navigate knowledge networks
-	- [[Curate, Connect, Cultivate System]] (main methodology hub)
-	- [[Thinking and Learning]] (cognitive tools and memory)
-	- [[System Design]] (architecture principles)
+- **12 Atomic Notes**: Demonstrating single-concept clarity with the DAE framework (Definition-Analogy-Example)
+- **3 Structure Notes**: Showing how to organize and navigate knowledge networks
+	- Curate, Connect, Cultivate System (main methodology hub)
+	- Thinking and Learning (cognitive tools and memory)
+	- System Design (architecture principles)
 - **10 Templates**: For consistent note creation across all types
-	- [[202508311058 An atomic note is a self-contained unit of knowledge that captures a single, complete idea|Atomic Note]] (standard and Anki versions)
+	- Atomic Note (standard and Anki versions)
 	- Daily Note, Weekly Review, Meeting Note
-	- [[202509030621 A reference note captures key ideas from an external source, serving as a bridge between consuming information and creating original thought|Reference Note]], [[202509011019 A structure note serves as a curated entry point or an organized overview of a specific topic or line of thought within a note network|Structure Note]], Person Note
+	- Reference Note, Structure Note, Person Note
 	- Vocabulary Note, General Note
-- **1 [[202509030621 A reference note captures key ideas from an external source, serving as a bridge between consuming information and creating original thought|Reference Note]]**: "[[How to Take Smart Notes]]" fully processed and linked
+- **1 Reference Note**: "How to Take Smart Notes" fully processed and linked
 - **Core Folder Structure**: Organized for both human navigation and AI compatibility
 
 ### 🚧 Coming Soon
@@ -89,7 +89,7 @@ The AI compatibility isn't coincidental. Large language models process informati
 ## Learn More
 
 - **Book**: "Curate, Connect, Cultivate" by Jason Gilbertson and Terri Yeh (coming 2026)
-- **Contact**: jason.gilbertson@gmail.com for early access or questions
+- **Contact**: jason.gilbertson@gmail.com or yeh.terri@gmail.com for early access or questions
 - **Updates**: Star this repository for notification of new features and workflow examples
 
 ## License
